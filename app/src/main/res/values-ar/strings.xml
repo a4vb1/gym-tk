@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gym App</string>
+    
+    <!-- Main Activity -->
+    <string name="welcome_message">Welcome to Gym App</string>
+    <string name="muscle_group_icon">Muscle group icon</string>
+    
+    <!-- Exercise Detail Activity -->
+    <string name="last_workout">Last Workout</string>
+    <string name="new_workout">New Workout</string>
+    <string name="workout_history">Workout History</string>
+    
+    <!-- Form labels -->
+    <string name="weight_kg_hint">Weight (kg)</string>
+    <string name="reps_hint">Number of Reps</string>
+    <string name="sets_hint">Number of Sets</string>
+    <string name="notes_hint">Notes (optional)</string>
+    <string name="save_workout">Save Workout</string>
+    
+    <!-- Display formats -->
+    <string name="weight_kg">%1$.1f kg</string>
+    <string name="reps_count">%1$d reps</string>
+    <string name="sets_count">%1$d sets</string>
+    <string name="last_workout_info">Weight: %1$.1f kg - Reps: %2$d - Sets: %3$d</string>
+    <string name="exercise_stats">Total workouts: %1$d - Max weight: %2$.1f kg</string>
+    <string name="no_previous_workouts">No previous workouts</string>
+    
+    <!-- Error messages -->
+    <string name="error_loading_data">Error loading data</string>
+    <string name="error_loading_exercises">Error loading exercises</string>
+    <string name="error_empty_fields">Please fill all required fields</string>
+    <string name="error_invalid_weight">Please enter a valid weight</string>
+    <string name="error_invalid_reps">Please enter a valid number of reps</string>
+    <string name="error_invalid_sets">Please enter a valid number of sets</string>
+    <string name="error_saving_workout">Error saving workout</string>
+    
+    <!-- Success messages -->
+    <string name="workout_saved_successfully">Workout saved successfully</string>
+</resources>
