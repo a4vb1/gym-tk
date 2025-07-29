@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الجيم</string>
+    
+    <!-- Main Activity -->
+    <string name="welcome_message">مرحباً بك في تطبيق الجيم</string>
+    <string name="muscle_group_icon">أيقونة مجموعة العضلات</string>
+    
+    <!-- Exercise Detail Activity -->
+    <string name="last_workout">آخر تمرين</string>
+    <string name="new_workout">تمرين جديد</string>
+    <string name="workout_history">تاريخ التمارين</string>
+    
+    <!-- Form labels -->
+    <string name="weight_kg_hint">الوزن (كجم)</string>
+    <string name="reps_hint">عدد التكرارات</string>
+    <string name="sets_hint">عدد المجموعات</string>
+    <string name="notes_hint">ملاحظات (اختياري)</string>
+    <string name="save_workout">حفظ التمرين</string>
+    
+    <!-- Display formats -->
+    <string name="weight_kg">%1$.1f كجم</string>
+    <string name="reps_count">%1$d تكرار</string>
+    <string name="sets_count">%1$d مجموعة</string>
+    <string name="last_workout_info">الوزن: %1$.1f كجم - التكرارات: %2$d - المجموعات: %3$d</string>
+    <string name="exercise_stats">إجمالي التمارين: %1$d - أقصى وزن: %2$.1f كجم</string>
+    <string name="no_previous_workouts">لا توجد تمارين سابقة</string>
+    
+    <!-- Error messages -->
+    <string name="error_loading_data">خطأ في تحميل البيانات</string>
+    <string name="error_loading_exercises">خطأ في تحميل التمارين</string>
+    <string name="error_empty_fields">يرجى ملء جميع الحقول المطلوبة</string>
+    <string name="error_invalid_weight">يرجى إدخال وزن صحيح</string>
+    <string name="error_invalid_reps">يرجى إدخال عدد تكرارات صحيح</string>
+    <string name="error_invalid_sets">يرجى إدخال عدد مجموعات صحيح</string>
+    <string name="error_saving_workout">خطأ في حفظ التمرين</string>
+    
+    <!-- Success messages -->
+    <string name="workout_saved_successfully">تم حفظ التمرين بنجاح</string>
+</resources>
